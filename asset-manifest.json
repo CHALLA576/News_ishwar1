@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/News_ishwar1/static/css/main.9b5bfdbf.css",
+    "main.js": "/News_ishwar1/static/js/main.93c21582.js",
+    "static/media/maxresdefault.jpg": "/News_ishwar1/static/media/maxresdefault.96052de7446c274639a2.jpg",
+    "index.html": "/News_ishwar1/index.html",
+    "main.9b5bfdbf.css.map": "/News_ishwar1/static/css/main.9b5bfdbf.css.map",
+    "main.93c21582.js.map": "/News_ishwar1/static/js/main.93c21582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b5bfdbf.css",
+    "static/js/main.93c21582.js"
+  ]
+}
